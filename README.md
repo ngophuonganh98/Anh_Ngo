@@ -1,2 +1,3 @@
-# Anh_Ngo
-My personal repository
+### Hi there 
+# About me
+I am a skilled Risk Analyst and ACAMS-certified Legal Compliance Analyst with a strong foundation in financial crime and compliance. My expertise lies in leveraging data-driven insights to ensure adherence to regulatory frameworks, particularly in fast-paced environments. I possess a keen eye for detail and excel in critical thinking, enabling me to simultaneously manage multiple applications and projects. With experience in the biotech, healthcare, and financial sectors, I am passionate about utilizing my analytical and compliance skills to drive effective solutions and maintain the highest standards of integrity in operations.
